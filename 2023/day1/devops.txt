@@ -1,2 +1,3 @@
-DevOps is a methodology which Involves practices to bridge the gap of Dev and ops team by using Open source automation build tools.
+DevOps is a culture or methodologywhich Involves practices to bridge the gap between Dev and ops team by using Open source automation build tools.
+Devops engineers task is to verify whether the code is scalable,Tested,and  deployed on cloud using various tools like AWS/Azure/GCP, Docker, puppet, Terraform etc. 
 These are the articles which I refered to,
