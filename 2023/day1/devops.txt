@@ -1,3 +1,77 @@
-DevOps is a culture or methodologywhich Involves practices to bridge the gap between Dev and ops team by using Open source automation build tools.
+Task 1: Learned to create Github account.
+Created Discord account.
+Forked the 90DaysOfDevOps repository to my GitHub account.
+Learned difference between Fork and Clone
+
+Task2: Devops RoadMap
+
+Task 3: Understanding of Devops
+---------------------------------------------
+What? Why? How?
+What is Devops?: DevOps is a culture or methodologywhich Involves practices to bridge the gap between Dev and ops team by using Open source automation build tools.
+
+Why Devops?:Devops is considered as a next level of Agile methodology. DevOps is the next evolution of collaboration tools and practices to release better software, faster.Devops resolved many challenges that IT teams were facing while relesing the products.
+When development and operations teams come together, they reduce lead time, deploy more frequently, and produce higher-quality software.
+Teams that practice DevOps ship better work faster, streamline incident responses, and improve collaboration and communication across teams.
+4 key benefits of Devops are 
+  1. Collaboration and trust :
+            Building a culture of shared responsibility, transparency, and faster feedback is the foundation of every high-performing DevOps team. collaboration           and problem-solving ranked as the most important elements of a successful DevOps culture.
+  2. Release faster and work smarter:
+            Speed is everything. Teams that practice DevOps release deliverables more frequently, with higher quality and stability.
+  3.Accelerate time-to-resolution :
+            The team with the fastest feedback loop is the team that thrives. Full transparency and seamless communication enable DevOps teams to minimize downtime and resolve issues faster.
+  4. Better manage unplanned work :
+            With established processes and clear prioritization, development and operations teams can better manage unplanned work while continuing to focus on planned   work.
+
+How Devops Helps?
+8 steps in Devps:
+  1. Bild
+  2. Test
+  3. Deploy
+  4. Operate
+  5. Observe
+  6. Continuous Feedback
+  7. Discover
+  8. Plan
+  
+  Step 1 - Pick a component
+The first step is to start small. Pick a component that is currently in production. The ideal component has a simple code base with few dependencies and minimal infrastructure.
+
+Step 2 - Consider adopting an agile methodology like scrum
+DevOps often comes paired with an agile work methodology, such as scrum. It is not necessary to adopt all rituals and practices associated with a method like scrum. Three elements of scrum that are generally easy to adopt and quickly provide value are the backlog, sprint, and sprint planning.
+
+A DevOps team can add and prioritize work in a scrum backlog then pull a subset of that work into a sprint, a fixed length of time to complete a specific body of work. Sprint planning is the process of deciding what tasks go from the backlog to the next sprint.
+
+Step 3 - Use Git-based source control
+Version control is a DevOps best practice that enables greater collaboration and faster release cycles. Tools like Bitbucket allow developers to share, collaborate, merge, and backup software. 
+
+Step 4 - Integrate source control with work tracking
+Integrate the source control tool with the work tracking tool. By having a single place to see everything related to a particular project, developers and management will save a significant amount of time.
+
+Step 5 - Write tests
+CI/CD pipelines need tests to validate that the code deployed to various environments works correctly. Start by writing unit tests for the code. 
+
+Step 6 - Build out a CI/CD process to deploy the component
+Consider deploying to multiple environments when building out a CI/CD pipeline. Things will get hardcoded if a team builds a CI/CD pipeline that deploys to only a single environment. It is important to build CI/CD pipelines for infrastructure and code. Start by building a CI/CD pipeline to deploy the necessary infrastructure in each environment. Then, build another CI/CD pipeline to deploy the code.
+
+tep 7 - Add monitoring, alarms, and instrumentation
+A DevOps team needs to monitor the behavior of the running application in each environment. 
+
+Step 8 - Use feature flags to implement canary testing
+To enable canary testing, wrap each new feature in a feature flag with an allow list that contains test users. 
+
 Devops engineers task is to verify whether the code is scalable,Tested,and  deployed on cloud using various tools like AWS/Azure/GCP, Docker, puppet, Terraform etc. 
-These are the articles which I refered to,
+
+What is Automation, Scaling, Infrastructure?
+------------------------------------------------
+
+
+
+Why Devops is importatnt?
+-----------------------------------
+Reference: These are the articles which I refered to,
+1. https://www.theserverside.com/answer/Git-fork-vs-clone-Whats-the-difference#
+Fork Vs Clone, What is the difference?
+2. https://www.atlassian.com/devops/what-is-devops/
+ What, Why How Devops?
+ 
